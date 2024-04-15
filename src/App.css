@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.mainContainer{
+  background: linear-gradient(to bottom, #5B86E5, #36D1DC);
+  text-align: center;
+  min-height: 100vh;
+}
