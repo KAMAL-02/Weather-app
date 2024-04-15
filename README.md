@@ -1,2 +1,2 @@
 # Weather-app
-This is a weather app which is build entirely from REACT
+This is a weather app which is build entirely using REACT
