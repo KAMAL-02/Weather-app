@@ -22,5 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-Weather-app\src\utils\constant.js
+src\utils\*
 
