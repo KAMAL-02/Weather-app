@@ -23,5 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-Weather-app\src\utils
+Weather-app\src\utils\constant.js
 
